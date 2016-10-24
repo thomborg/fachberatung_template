@@ -25,6 +25,6 @@
         <li><?php wp_loginout(); ?></li>
         <?php wp_meta(); ?>
     </ul>
-</div>
+
 
 <!-- Ende der sidebar.php -->

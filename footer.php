@@ -3,11 +3,16 @@
 </div>
 
 <div id="footer">
-    <p>Copyright © Bezirk Oberbayern, Fachberatung für Imkeri 2016 - Alle Rechte vorbehalten -
+    <p>Copyright © Bezirk Oberbayern, Fachberatung für Imkerei 2016 - Alle Rechte vorbehalten -
         Angetrieben von <a href="http://wordpress.org">WordPress</a></p>
-</div><!-- /#container -->
+    </div>
+
 
 <?php wp_footer(); ?>
 
+</div>
+</div><!-- /#container -->
 </body>
 </html>
+
+
