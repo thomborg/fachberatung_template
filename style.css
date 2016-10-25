@@ -142,5 +142,12 @@ h3 {
     border: 1px solid grey;
 }
 
+.buchung_true {
+    /* icon */
+    background-image: url("icons/ic_event_black_24px.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 
 
